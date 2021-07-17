@@ -1,11 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <!--Linking CSS -->
-<?xml-stylesheet href="catalog_19031377.css" type="text/css"?> 
+<?xml-stylesheet href="styles.css" type="text/css"?> 
 
 <!--linking Schema-->
-<Store xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
-	xsi:noNamespaceSchemaLocation="catalog_19031377.xsd"> 
+<Store> 
 
 	<Store_Details>
 		<Name>abcsongs</Name>
