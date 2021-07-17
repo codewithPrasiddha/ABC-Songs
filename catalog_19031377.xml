@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--Linking CSS -->
+<?xml-stylesheet href="catalog_19031377.css" type="text/css"?> 
+
+<!--linking Schema-->
+<Store xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" 
+	xsi:noNamespaceSchemaLocation="catalog_19031377.xsd"> 
+
+	<Store_Details>
+		<Name>abcsongs</Name>
+		<Contact_No>+9779861064883</Contact_No>
+
+		<Address>
+			<State>Bagmati</State>
+			<City>Dhading,</City>
+			<Street>Gajuri</Street>
+		</Address>
+
+		<Website>https://www.abcsongs.com</Website>
+
+		<Logo/>
+
+	</Store_Details>
+
+	<Songs>
+		<Song_Details song_id="song_01" type="Solo" length="2:55">
+			
+			<Genre>JAZZ</Genre>
+			<Song_Name>Hello Darkness</Song_Name>
+			<Director>Louis Hamilton</Director>
+			<Producer>Charles Bosh</Producer>
+			<Writer>Austin August</Writer>
+			<Singer title="Mr.">Reid Nelson</Singer>
+			<Release_Date>11/20/2005</Release_Date>
+			<Price currency="USD">50</Price>
+			<Rating>4.0</Rating>
+			<Image id="img_01"/>
+
+		</Song_Details>
+
+		<Song_Details song_id="song_02" type="Solo" length="9:22">
+
+			<Genre>JAZZ</Genre>
+			<Song_Name>After it ends</Song_Name>
+			<Director>Eliza Marqs</Director>
+			<Producer>Eka Masako</Producer>
+			<Writer>Martyn Terje</Writer>
+			<Singer title="Mr.">Carla Noam</Singer>
+			<Release_Date>05/06/2004</Release_Date>
+			<Price currency="USD">35</Price>
+			<Rating>4.6</Rating>
+			<Image id="img_02"/>
+			
+
+		</Song_Details>
+
+		<Song_Details song_id="song_03" type="Solo" length="4:14">
+
+			<Genre>Rock</Genre>
+			<Song_Name>Cold Summer</Song_Name>
+			<Director>Spartak Shakuntala</Director>
+			<Producer>Matthew Shattuck</Producer>
+			<Writer>Mikaere Qemu'el</Writer>
+			<Singer title="Mr.">Agnes Phillips</Singer>
+			<Description>
+				<Des>The song was considered to be a popular classic rock music</Des>
+				<Des>Most of the rock songs are composed primarily by rock superstars and then they are distributed to public in form of album</Des>
+			</Description>
+			<Release_Date>2020</Release_Date>
+			<Editor>Dana Santiago</Editor>
+			<Production_Company>Mrcos Wise</Production_Company>
+			<Image id="img_03"/>
+		
+
+		</Song_Details>
+
+		<Song_Details song_id="song_04" type="Solo" length="4:40">
+
+			<Genre>Rock</Genre>
+			<Song_Name>Bright Sunshine</Song_Name>
+			<Director>Emilio Arnold</Director>
+			<Producer>Karla Stone</Producer>
+			<Writer>Israel Moore</Writer>
+			<Singer title="Mr.">Karl Moore</Singer>
+				<Description>
+				<Des>One of the most aniticipated album of karl moore was publised in 2010 which sold more than 2 million copies worldwide.</Des>
+				<Des>This song has recieved awards and recognition worldwide</Des>
+				</Description>
+			<Release_Date>2010</Release_Date>
+			<Studio>Garlic n Arnol</Studio>
+			<Price currency="USD">20</Price>
+			<Rating>4.9</Rating>
+			<Image id="img_04"/>
+			
+
+		</Song_Details>
+		
+		<Song_Details song_id="song_05"  length="3:23">
+
+			<Genre>Country Music</Genre>
+			<Song_Name>Sweet Aroma</Song_Name>
+			<Director>Guy Haynes </Director>
+			<Producer>Camille Cook</Producer>
+			<Writer>Ora Rice</Writer>
+			<Singer>Lloyd Mason</Singer>
+			<Release_Date>2005</Release_Date>
+			<Image id="img_05"/>
+			
+
+		</Song_Details>
+
+		<Song_Details song_id="song_06" type="Solo">
+
+			<Genre>Country Music</Genre>
+			<Song_Name>Chairless Harmony</Song_Name>
+			<Director>Juana Tyler</Director>
+			<Producer>Corey Lee</Producer>
+			<Writer>Rickey Johnson</Writer>
+			<Singer title="Miss.">Debra Goodman</Singer>
+			<Description>
+				<Des>This song has been long awaited by the new generation since it was a successfull remake of the older version of chairless harmony</Des>
+				<Des> After hitting the top billboard of 2020 for 6 continuos months, it finally earned billboard recognition from the committee.</Des>
+			</Description>
+			<Release_Date>2020</Release_Date>
+			<Price currency="Rs.">5000</Price>
+			<Image id="img_06"/>
+			
+
+		</Song_Details>
+			
+		<Song_Details song_id="song_07" type="Duet" length="3:25">
+
+			<Genre>Rap</Genre>
+			<Song_Name>Calling of the Blue</Song_Name>
+			<Director>Ethal Evans</Director>
+			<Producer>Sherri Reese</Producer>
+			<Writer>Claude Fuller</Writer>
+			<Writer>Joy Gordon</Writer>
+			<Singer title="Mr.">Jim Adams</Singer>
+			<Singer title="Mr.">Freddie Hicks</Singer>
+			<Release_Date>2021</Release_Date>
+			<Studio>X Factors</Studio>
+			<Production_Company>Red Fire Media</Production_Company>
+			<Image id="img_07"/>
+			
+
+		</Song_Details>
+
+		<Song_Details song_id="song_08" type="Solo" length="6:04">
+
+			<Genre>Rap</Genre>
+			<Song_Name>She loved me</Song_Name>
+			<Director>Kari Mann</Director>
+			<Producer>Tanya Roberts</Producer>
+			<Writer>Robert Webb</Writer>
+			<Writer>Alexis Moss</Writer>
+			<Singer title="Mr.">Troy Cox</Singer>
+			<Description>
+				<Des>This song is mostly famous for the tiktok cover video used by Mr.Beast</Des>
+				<Des>This song was awarded as one of the most used song of the century by Idols committee USA in 2019.</Des>
+			</Description>
+			<Release_Date>2018</Release_Date>
+			<Studio>Afterwaltz &amp;Austria</Studio>
+			<Price currency="USD">85</Price>
+			<Rating>4.7</Rating>
+			<Image id="img_08"/>
+		
+
+		</Song_Details>
+		
+
+		<Song_Details song_id="song_09" type="Duet" length="3:02">
+
+			<Genre>Pop Music</Genre>
+			<Song_Name>Blood Mountain</Song_Name>
+			<Director>Monique Hall</Director>
+			<Producer>Schwartz &amp; Webb</Producer>
+			<Writer>Troy Jensen</Writer>
+			<Writer>Viola Alvarez</Writer>
+			<Singer title="Miss.">Martini Johnson</Singer>
+			<Singer title="Miss.">Denise Flores</Singer>
+			<Description>
+				<Des>It is one of the most popular song sang by two consecutive idol winners of USA talent hunt.It is considered to be the first song sang by female singer to reach 10 million downloads</Des>
+			</Description>
+			<Release_Date>05/22/2019</Release_Date>
+			<Rating>4.8</Rating>
+			<Image id="img_09"/>
+		
+
+		</Song_Details>
+
+		<Song_Details song_id="song_010" type="Duet" length="3:49">
+
+			<Genre>Pop Music</Genre>
+			<Song_Name>Thursday River</Song_Name>
+			<Director>Marie Ward</Director>
+			<Producer>Sandra Turner</Producer>
+			<Producer>Maria Nelson</Producer>
+			<Writer>Tina Cooper</Writer>
+			<Writer>Judith Lee</Writer>
+			<Singer>Arthur &amp; Maxx</Singer>
+			<Description>
+				<Des>One of the fastest song to reach 1 million hits on billboard top charts for 2015 special awards. This song had a very influencing and heartwarming lyrical development which was considered as an musical achievement by music industries</Des>
+			</Description>
+			<Release_Date>06/25/2013</Release_Date>
+			<Price currency="Rs.">2000</Price>
+			<Image id="img_010"/>
+			
+
+		</Song_Details>
+			
+	</Songs>
+
+</Store>
